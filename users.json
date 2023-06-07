@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "username": "huuphuc",
+        "password": "123456",
+        "lastname": "phuc",
+        "firstname": "chu",
+        "address": "Hanoi",
+        "enabled": true
+    }
+]
